@@ -1,0 +1,22 @@
+{
+  "name": "a2z-server",
+  "version": "1.0.0",
+  "description": "An Express Node.js API for the Designer's Critical Alphabet mobile app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cross-team/a2z-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cross-team/a2z-server/issues"
+  },
+  "homepage": "https://github.com/cross-team/a2z-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
